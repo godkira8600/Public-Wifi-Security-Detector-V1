@@ -163,8 +163,10 @@ This project is open source. Feel free to use, modify, and distribute it in acco
 ## 👤 Author
 
 **godkira8600**
+**vaishnavpt06**
 
 - GitHub: [@godkira8600](https://github.com/godkira8600)
+[@vaishnavpt06](https://github.com/vaishnavpt06)
 
 ---
 
